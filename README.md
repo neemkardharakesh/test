@@ -54,7 +54,7 @@ That’s it! You’re ready to build something *(ba dum tss)* epically powerful.
 
 ### 📘 Documentation
 
-Full documentation (including API, part picker, hardware setup, and usage examples) can be found in the [documentation website](https://gatech-epic-power.github.io/epically-powerful/).
+Full documentation (including API, part picker, hardware setup, and usage examples) can be found in the [documentation website](https://neemkardharakesh.github.io/test/).
 
 ---
 
