@@ -1,11 +1,11 @@
-# EP Docs
+# Exosuites Docs
 
 ![school_GT](/res/Logo_Full.png)
 
 
-## Welcome to Epically Powerful!
+## Welcome to Exosuites!
 
-Epically Powerful is an open-source code base and mechatronics package designed to simplify the creation of wearable and general robotic systems. Our platform seamlessly integrates commercially-available computers, actuators, and sensors, handling low-level code implementation to enable easy user interfacing, simplified control, versatile communication management, and easy data collection. For the most part, EP is a set of convenience wrappers around other Python libraries, giving simplified interfaces and some additional tools that make everyone's lives easier. Along with the code base, we also provide guidance on ordering components and constructing your system. These utilities are complemented by extension documentation, examples, and videos to aid in expedited system construction and operation.
+Exosuites is an open-source code base and mechatronics package designed to simplify the creation of wearable and general robotic systems. Our platform seamlessly integrates commercially-available computers, actuators, and sensors, handling low-level code implementation to enable easy user interfacing, simplified control, versatile communication management, and easy data collection. For the most part, EP is a set of convenience wrappers around other Python libraries, giving simplified interfaces and some additional tools that make everyone's lives easier. Along with the code base, we also provide guidance on ordering components and constructing your system. These utilities are complemented by extension documentation, examples, and videos to aid in expedited system construction and operation.
 
 :::{admonition} Our Mission
 Our goal is to lower the barriers to designing custom wearable and other robotic systems, enabling users to spend more time using their device for research rather than spend time designing, building, and validating device operation.
