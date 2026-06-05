@@ -38,7 +38,7 @@ Epically Powerful was built by robotics researchers to make wearable robotics de
 In short, Epically Powerful turns “getting your robot up and running” from a multi-week endeavor into a single-day setup.
 
 ![software](https://raw.githubusercontent.com/gatech-epic-power/epically-powerful/refs/heads/main/docs/source/res/Software.png)
-![software](https://www.carwale.com/ford-cars/mustang/)
+![software](C:\Users\neemk\OneDrive\Attachments\Desktop\New folder (2)\epically-powerful-main\docs\_images.png)
 ### 🛠️ Installation
 
 You can install Epically Powerful via PyPI using pip by running:
