@@ -1,4 +1,4 @@
-# Epically Powerful 🦿🤖🦾🚶🏻‍♀️👨🏽‍💻
+# Exosuites🦿🤖🦾🚶🏻‍♀️👨🏽‍💻
 
 **An open-source infrastructure for wearable robotics**
 
