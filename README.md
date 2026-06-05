@@ -48,10 +48,7 @@ You can install Epically Powerful via PyPI using pip by running:
 
 We recommend using our documentation website for guidance on identifying your hardware components, setting up and assembling your system, and verifying software functionality.
 
-That’s it! You’re ready to build something *(ba dum tss)* epically powerful.
-
----
-
+That’s it! You’re ready to build something *(ba dum tss)* epically powerful
 ### 📘 Documentation
 
 Full documentation (including API, part picker, hardware setup, and usage examples) can be found in the [documentation website](https://neemkardharakesh.github.io/test/).
@@ -65,7 +62,7 @@ Full documentation (including API, part picker, hardware setup, and usage exampl
 * **IMUs:** MicroStrain (MSCL), MPU-9250 (I²C), and OpenIMU (CAN)
 * **Power:** Li-Ion drill batteries and LiPo options
 
-See the full **[Part Picker](https://neemkardharakesh.github.io/test/pages/part_picker.html)** and **[Setup](https://gatech-epic-power.github.io/epically-powerful/pages/setup.html)** pages in the documentation for model-specific recommendations, wiring diagrams, and supporting components (e.g. CAN transceivers, fuses, safety pouches, etc.).
+See the full **[Part Picker](https://neemkardharakesh.github.io/test/pages/part_picker.html)** and **[Setup](https://neemkardharakesh.github.io/test/pages/setup.html)** pages in the documentation for model-specific recommendations, wiring diagrams, and supporting components (e.g. CAN transceivers, fuses, safety pouches, etc.).
 
 ---
 
