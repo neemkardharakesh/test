@@ -65,7 +65,7 @@ Full documentation (including API, part picker, hardware setup, and usage exampl
 * **IMUs:** MicroStrain (MSCL), MPU-9250 (I²C), and OpenIMU (CAN)
 * **Power:** Li-Ion drill batteries and LiPo options
 
-See the full **[Part Picker](https://gatech-epic-power.github.io/epically-powerful/pages/part_picker.html)** and **[Setup](https://gatech-epic-power.github.io/epically-powerful/pages/setup.html)** pages in the documentation for model-specific recommendations, wiring diagrams, and supporting components (e.g. CAN transceivers, fuses, safety pouches, etc.).
+See the full **[Part Picker](https://neemkardharakesh.github.io/test/pages/part_picker.html)** and **[Setup](https://gatech-epic-power.github.io/epically-powerful/pages/setup.html)** pages in the documentation for model-specific recommendations, wiring diagrams, and supporting components (e.g. CAN transceivers, fuses, safety pouches, etc.).
 
 ---
 
